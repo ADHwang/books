@@ -5,3 +5,5 @@ permalink: /tjpl4e/
 ---
 
 <small>by Ken Arnold, James Gosling and David Holmes (2005)</small>
+
+- [Exercises]({{ site.baseurl }}/tjpl4e/exercises.html)
