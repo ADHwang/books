@@ -18,4 +18,6 @@ permalink: /tjpl4e/
 
 ## Classes and Objects
 
+In Java, programmers must explicitly create an object. For example, in C++, `Body mercury;` will create an object with default values, but in Java, it is just a declaration; `mercury` is a reference to an object of type `Body`.
+
 ## Exercises
